@@ -8,7 +8,7 @@ const Api = () => {
   //for get user data
   async function getUsers() {
     let res = await axios.get("http://localhost:3001/users");
-
+    console.log(res.data);
     setuser(res.data);
   }
 
