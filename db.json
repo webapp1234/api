@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "firstname": "garvit",
+      "lastname": "dhameliya",
+      "age": 22,
+      "email": "garvit@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "firstname": "user",
+      "lastname": "duo",
+      "age": 22,
+      "email": "user@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "firstname": "ram",
+      "lastname": "tyafi",
+      "age": "21",
+      "email": "ram@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "firstname": "asdsa",
+      "lastname": "asdas",
+      "age": "asdsa",
+      "email": "asdas",
+      "password": "asd",
+      "id": 4
+    },
+    {
+      "firstname": "asdasd",
+      "lastname": "sadsad",
+      "age": "wetgdfgfd",
+      "password": "sdfsd",
+      "email": "sdfds",
+      "id": 5
+    },
+    {
+      "firstname": "Zcasd",
+      "lastname": "assad",
+      "age": "asdasd",
+      "email": "asdasd",
+      "password": "asd",
+      "id": 6
+    },
+    {
+      "firstname": "asdasd",
+      "lastname": "asds",
+      "age": "asd",
+      "email": "asdas",
+      "password": "asd",
+      "id": 7
+    },
+    {
+      "firstname": "dsfsdf",
+      "lastname": "sdfsdf",
+      "age": "sdfsd",
+      "email": "sdfsdf",
+      "password": "dgdf",
+      "id": 8
+    },
+    {
+      "firstname": "sdfsdf",
+      "lastname": "sdfsdf",
+      "age": "sdfsdf",
+      "email": "sdfsd",
+      "password": "sdfsd",
+      "id": 9
+    },
+    {
+      "firstname": "sdfsdf",
+      "lastname": "sdfsdf",
+      "age": "sdfsdf",
+      "email": "sdfsd",
+      "password": "sdfsd",
+      "id": 10
+    },
+    {
+      "firstname": "sdfsdf",
+      "lastname": "sdfsdf",
+      "age": "sdfsdf",
+      "email": "sdfsd",
+      "password": "sdfsd",
+      "id": 11
+    },
+    {
+      "firstname": "xczx",
+      "lastname": "asdas",
+      "age": "asda",
+      "email": "xcx",
+      "password": "sads",
+      "id": 12
+    }
+  ],
+  "products":[]
+}
